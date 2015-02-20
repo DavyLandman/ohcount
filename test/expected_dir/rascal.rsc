@@ -1,7 +1,7 @@
-rascal	code	@license{
-rascal	code		example license header
-rascal	code	}
-rascal	code	@contributor{Paul Klint - Paul.Klint@cwi.nl - CWI}
+rascal	comment	@license{
+rascal	comment		example license header
+rascal	comment	}
+rascal	comment	@contributor{Paul Klint - Paul.Klint@cwi.nl - CWI}
 rascal	comment	// Comments
 rascal	code	module demo::lang::Exp
 rascal	blank	
