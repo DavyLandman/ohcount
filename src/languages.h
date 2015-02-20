@@ -91,6 +91,7 @@
 #define LANG_REBOL "rebol"
 #define LANG_REXX "rexx"
 #define LANG_RHTML "rhtml"
+#define LANG_RASCAL "rascal"
 #define LANG_RUBY "ruby"
 #define LANG_RUST "rust"
 #define LANG_SCALA "scala"
